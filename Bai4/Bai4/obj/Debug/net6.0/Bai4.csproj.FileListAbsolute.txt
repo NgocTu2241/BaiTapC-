@@ -1,0 +1,5 @@
+C:\Users\NgocTu\source\repos\Bai4\Bai4\obj\Debug\net6.0\Bai4.csproj.AssemblyReference.cache
+C:\Users\NgocTu\source\repos\Bai4\Bai4\obj\Debug\net6.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocTu\source\repos\Bai4\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfoInputs.cache
+C:\Users\NgocTu\source\repos\Bai4\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfo.cs
+C:\Users\NgocTu\source\repos\Bai4\Bai4\obj\Debug\net6.0\Bai4.csproj.CoreCompileInputs.cache
