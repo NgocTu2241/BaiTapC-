@@ -1,0 +1,15 @@
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.exe
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.deps.json
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.runtimeconfig.json
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.dll
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.pdb
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.csproj.AssemblyReference.cache
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.AssemblyInfoInputs.cache
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.AssemblyInfo.cs
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.csproj.CoreCompileInputs.cache
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.dll
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\refint\DiemDanh.dll
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.pdb
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.genruntimeconfig.cache
+C:\Users\NgocTu\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\ref\DiemDanh.dll
